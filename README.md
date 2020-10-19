@@ -10,6 +10,7 @@ Welcome to Paper Sharing class :)
 Please choose recent papers (2020, 2019) from top NLP/AI venues. A (incomplete) list is
 
 - NLP: ACL, TACL, EMNLP, NAACL, EACL
+- NLP: CVPR, ECCV, ICCV
 - ML: ICML, NeurIPS, AISTATS, JMLR, ICLR
 - AI: AAAI, IJCAI
 - IR/DM: SIGIR, CIKM, WSDM, KDD, WWW
