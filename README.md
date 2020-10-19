@@ -37,4 +37,4 @@ Please read abstract/introduction sections before the seminar.
 |7|	2020.12.01	| Xin Li |	Text Detection |	|
 |8|	2020.12.08	| Zijing Yang | Recommendation	|	|
 |9|	2020.12.15	| Xiangcheng Du | Text Recognition	|	|
-|10|	2020.12.22	|  |  |
+|10|	2020.12.22	| Yucheng Li | Text Generation |
