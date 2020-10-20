@@ -10,7 +10,7 @@ Welcome to Paper Sharing class :)
 Please choose recent papers (2020, 2019) from top NLP/AI venues. A (incomplete) list is
 
 - NLP: ACL, TACL, EMNLP, NAACL, EACL
-- NLP: CVPR, ECCV, ICCV
+- CV: CVPR, ECCV, ICCV
 - ML: ICML, NeurIPS, AISTATS, JMLR, ICLR
 - AI: AAAI, IJCAI
 - IR/DM: SIGIR, CIKM, WSDM, KDD, WWW
@@ -39,3 +39,4 @@ Please read abstract/introduction sections before the seminar.
 |8|	2020.12.08	| Zijing Yang | Recommendation	|	|
 |9|	2020.12.15	| Xiangcheng Du | Text Recognition	|	|
 |10|	2020.12.22	| Yucheng Li | Text Generation |
+|11|	2020.12.29	| Jiabo Ye | Weakly Supervised Visual Grounding |
