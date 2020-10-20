@@ -32,7 +32,7 @@ Please read abstract/introduction sections before the seminar.
 |  ----   | ----  |   ----   | ----  |   ----   |
 |1|	2020.10.27	|Zhichao Fu | Surper-Resolution	|	[Materials](#)|
 |2|	2020.11.03	|Jie Zhou | An overview of Multi-modal Pre-trained Models	|[Materials](#)	|
-|3|	2020.11.10	|Xinjiao Wu | #	| [Materials]()	| 
+|3|	2020.11.10	|Xingjiao Wu | #	| [Materials]()	| 
 |4|	2020.11.17	|Qian Zhao |	Knowledge|	|
 |6|	2020.11.24	|Jun Zhang |	Dialogue |	|
 |7|	2020.12.01	| Xin Li |	Text Detection |	|
