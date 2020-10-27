@@ -30,7 +30,7 @@ Please read abstract/introduction sections before the seminar.
 ## Agenda
 |Week|	Date	|Speaker|	Paper|	Materials|
 |  ----   | ----  |   ----   | ----  |   ----   |
-|1|	2020.10.27	|Zhichao Fu | Surper-Resolution	|	[Materials](#)|
+|1|	2020.10.27	|Zhichao Fu | Surper-Resolution	|	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week1/Introduction%20of%20Super%20Resolution.pptx)|
 |2|	2020.11.03	|Jie Zhou | An overview of Multi-modal Pre-trained Models	|[Materials](#)	|
 |3|	2020.11.10	|Xingjiao Wu | #	| [Materials]()	| 
 |4|	2020.11.17	|Qian Zhao |	Knowledge|	|
