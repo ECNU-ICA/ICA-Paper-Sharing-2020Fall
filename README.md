@@ -34,10 +34,10 @@ Please read abstract/introduction sections before the seminar.
 |2|	2020.11.03	|Jie Zhou | Cross-modality semantic learning and reasoning	|[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week2/Cross-modality%20semantic%20learning%20and%20reasoning.pdf)	|
 |3|	2020.11.10	|Xingjiao Wu | #	| [Materials]()	| 
 |4|	2020.11.17	|Qian Zhao |	Knowledge|	|
-|6|	2020.11.24	|Jun Zhang |	Dialogue |	|
-|7|	2020.12.01	| Xin Li |	Text Detection |	|
-|8|	2020.12.08	| Zijing Yang | Recommendation	|	|
-|9|	2020.12.15	| Xiangcheng Du | Text Recognition	|	|
-|10|	2020.12.22	| Dingbang Li | Visual Reasoning|
-|11|	2020.12.29	| Yucheng Li | Text Generation |
-|12|	2021.01.06	| Jiabo Ye | Weakly Supervised Visual Grounding  |
+|5|	2020.11.24	|Jun Zhang |	Dialogue |	|
+|6|	2020.12.01	| Xin Li |	Text Detection |	|
+|7|	2020.12.08	| Zijing Yang | Recommendation	|	|
+|8|	2020.12.15	| Xiangcheng Du | Text Recognition	|	|
+|9|	2020.12.22	| Dingbang Li | Visual Reasoning|
+|10|	2020.12.29	| Yucheng Li | Text Generation |
+|11|	2021.01.06	| Jiabo Ye | Weakly Supervised Visual Grounding  |
