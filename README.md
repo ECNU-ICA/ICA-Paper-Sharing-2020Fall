@@ -33,11 +33,11 @@ Please read abstract/introduction sections before the seminar.
 |1|	2020.10.27	|Zhichao Fu | Surper-Resolution	|	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week1/Introduction%20of%20Super%20Resolution.pptx)|
 |2|	2020.11.03	|Jie Zhou | Cross-modality semantic learning and reasoning	|[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week2/Cross-modality%20semantic%20learning%20and%20reasoning.pdf)	|
 |3|	2020.11.10	|Xingjiao Wu | Crowd Counting	| [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week3/Crowd%20Counting%20and%20Future.pdf)	| 
-|4|	2020.11.17	|Qian Zhao |	Knowledge|	|
+|4|	2020.11.17	|Dingbang Li | Visual Question Answering |	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week4/vqa.pdf)  |  
 |5|	2020.11.24	|Jun Zhang |	Dialogue |	|
 |6|	2020.12.01	| Xin Li |	Text Detection |	|
-|7|	2020.12.08	| Zijing Yang | Recommendation	|	|
+|7|	2020.12.08	|Qian Zhao |	Knowledge|  |
 |8|	2020.12.15	| Xiangcheng Du | Text Recognition	|	|
-|9|	2020.12.22	| Dingbang Li | Visual Reasoning|
-|10|	2020.12.29	| Yucheng Li | Text Generation |
-|11|	2021.01.06	| Jiabo Ye | Weakly Supervised Visual Grounding  |
+|9|	2020.12.22	| Zijing Yang | Recommendation	|   |
+|10|	2020.12.29	| Yucheng Li | Text Generation | | 
+|11|	2021.01.06	| Jiabo Ye | Weakly Supervised Visual Grounding  |  |
