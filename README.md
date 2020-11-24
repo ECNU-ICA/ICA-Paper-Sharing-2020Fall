@@ -34,7 +34,7 @@ Please read abstract/introduction sections before the seminar.
 |2|	2020.11.03	|Jie Zhou | Cross-modality semantic learning and reasoning	|[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week2/Cross-modality%20semantic%20learning%20and%20reasoning.pdf)	|
 |3|	2020.11.10	|Xingjiao Wu | Crowd Counting	| [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week3/Crowd%20Counting%20and%20Future.pdf)	| 
 |4|	2020.11.17	|Dingbang Li | Visual Question Answering |	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week4/vqa.pdf)  |  
-|5|	2020.11.24	|Jun Zhang |	Conversational Information Seeking with Dialog Systems | [Materials] (https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week5/Conversational%20Information%20Seeking%20with%20Dialog%20Systems.pdf)	|
+|5|	2020.11.24	|Jun Zhang |	Conversational Information Seeking with Dialog Systems | [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week5/Conversational%20Information%20Seeking%20with%20Dialog%20Systems.pdf)	|
 |6|	2020.12.01	| Xin Li |	Text Detection |	|
 |7|	2020.12.08	|Qian Zhao |	Knowledge|  |
 |8|	2020.12.15	| Xiangcheng Du | Text Recognition	|	|
