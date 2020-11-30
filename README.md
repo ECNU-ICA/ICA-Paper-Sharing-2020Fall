@@ -35,7 +35,7 @@ Please read abstract/introduction sections before the seminar.
 |3|	2020.11.10	|Xingjiao Wu | Crowd Counting	| [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week3/Crowd%20Counting%20and%20Future.pdf)	| 
 |4|	2020.11.17	|Dingbang Li | Visual Question Answering |	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week4/vqa.pdf)  |  
 |5|	2020.11.24	|Jun Zhang |	Conversational Information Seeking with Dialog Systems | [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week5/Conversational%20Information%20Seeking%20with%20Dialog%20Systems.pdf)	|
-|6|	2020.12.01	| Xin Li |	Text Detection |	|
+|6|	2020.12.01	| Xin Li |	Text Detection |  https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week5/Introduction%20of%20Scene%20Text%20Detection.pdf	|
 |7|	2020.12.08	| Zijing Yang | Recommendation	|   |
 |8|	2020.12.15	| Xiangcheng Du | Text Recognition	|	|
 |9|	2020.12.22	| Qian Zhao |	Knowledge|  |
