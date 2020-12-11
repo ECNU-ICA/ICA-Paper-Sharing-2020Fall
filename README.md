@@ -36,8 +36,9 @@ Please read abstract/introduction sections before the seminar.
 |4|	2020.11.17	|Dingbang Li | Visual Question Answering |	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week4/vqa.pdf)  |  
 |5|	2020.11.24	|Jun Zhang |	Conversational Information Seeking with Dialog Systems | [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week5/Conversational%20Information%20Seeking%20with%20Dialog%20Systems.pdf)	|
 |6|	2020.12.01	| Xin Li |	Text Detection |  [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week6/Introduction%20of%20Scene%20Text%20Detection.pdf)	|
-|7|	2020.12.08	| Zijing Yang | Recommendation	|   |
-|8|	2020.12.15	| Xiangcheng Du | Text Recognition	|	|
-|9|	2020.12.22	| Qian Zhao |	Knowledge|  |
-|10|	2020.12.29	| Yucheng Li | Text Generation | | 
-|11|	2021.01.06	| Jiabo Ye | Weakly Supervised Visual Grounding  |  |
+|7|	2020.12.08	| Lu Wang | Application of Reinforcement Learing	| [Materials]()  |
+|7|	2020.12.15	| Zijing Yang | Recommendation	|   |
+|8|	2020.12.22	| Xiangcheng Du | Text Recognition	|	|
+|9|	2020.12.29	| Qian Zhao |	Knowledge|  |
+|10|	2020.01.06	| Yucheng Li | Text Generation | | 
+|11|	2021.01.13	| Jiabo Ye | Weakly Supervised Visual Grounding  |  |
