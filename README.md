@@ -38,7 +38,7 @@ Please read abstract/introduction sections before the seminar.
 |6|	2020.12.01	| Xin Li |	Text Detection |  [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week6/Introduction%20of%20Scene%20Text%20Detection.pdf)	|
 |7|	2020.12.08	| Lu Wang | Application of Reinforcement Learing	| [Materials]()  |
 |8|	2020.12.15	| Zijing Yang | Conversational Recommendation	| [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week7/Conversational%20Rec.pdf)  |
-|9|	2020.12.22	| Xiangcheng Du | Text Recognition	|	|
+|9|	2020.12.22	| Xiangcheng Du | Text Recognition	|	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week8/scene%20text%20recognition.pdf) |
 |10|	2020.12.29	| Qian Zhao |	Knowledge|  |
 |11|	2020.01.06	| Yucheng Li | Text Generation | | 
 |12|	2021.01.13	| Jiabo Ye | Weakly Supervised Visual Grounding  |  |
