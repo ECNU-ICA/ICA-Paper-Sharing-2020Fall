@@ -40,5 +40,5 @@ Please read abstract/introduction sections before the seminar.
 |8|	2020.12.15	| Zijing Yang | Conversational Recommendation	| [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week7/Conversational%20Rec.pdf)  |
 |9|	2020.12.22	| Xiangcheng Du | Text Recognition	|	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week8/scene%20text%20recognition.pdf) |
 |10|	2020.12.29	| Qian Zhao |	Knowledge Guided Pre-trianing Language Model |  [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week9/PLMs%20with%20Knowledge.pdf) |
-|11|	2020.01.06	| Yucheng Li | Text Generation | | 
-|12|	2021.01.13	| Jiabo Ye | Weakly Supervised Visual Grounding  |  |
+|11|	2020.01.05	| Yucheng Li | Text Summarization | [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week10/text%20summarization.pdf) | 
+|12|	2021.01.12	| Jiabo Ye | Visual Grounding  | [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2020Fall/blob/main/week11/Visual%20Grounding.pdf) |
